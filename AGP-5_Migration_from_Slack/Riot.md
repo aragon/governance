@@ -15,6 +15,7 @@
 - Basic moderation and rich moderation API
 - Roadmap for upvotes/downvotes on messages and per-member reputation
 - Usernames can contain flags, similar to Reddit, to signal status in the community
+- Native clients for Android and iOS, and [desktop too](https://github.com/mujx/nheko)
 
 ### Cons
 
