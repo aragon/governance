@@ -9,6 +9,7 @@
 - Federated architecture: Any user in any community could talk to another one in another different community, seamlessly
 - End-to-end encryption for private messages and closed group chats: Useful for internal communications, for example
 - Built using React, easy to maintain and work on
+- Numeral user-levels, easy to set different levels for usergroups, ie. 50 for Moderator, 100 for Admin
 - They have features for communities coming by the end of Sep: This will implement a per-community view, instead of having all different channels from all different communities bloating the interface
 - They have message pinning, message editing and reactions coming by the end of 2017
 - Basic moderation and rich moderation API
