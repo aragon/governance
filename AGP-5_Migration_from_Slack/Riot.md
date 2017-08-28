@@ -17,7 +17,7 @@
 
 ### Cons
 
-- UX is terrible, specially for newcomers
+- UX is bad, specially for newcomers
 - Encryption / key exchange is buggy and keeps causing issues in encrypted channels, unfortunately
 - Lack of message pinning, editing and reactions, but as seen above, they're coming by the end of 2017
 - They are having [funding](https://github.com/vector-im/riot-web/issues/2977) [issues](https://matrix.org/blog/2017/07/07/a-call-to-arms-supporting-matrix/) and require a very significant amount of capital to continue with the project for the next 18 months, at least
