@@ -20,9 +20,9 @@
 - Roadmap for upvotes/downvotes on messages and per-member reputation
 - Usernames can contain flags, similar to Reddit, to signal status in the community
 - Notifications: Work on web, desktop and mobile, includes notifications inbox
-- Bridges: Allows you to mirror the messages from Slack, Gitter, IRC, Twitter, SMS and more
+- A huge range of clients that support the Matrix standard, Riot is just one of them
+- Bridges: Allows you to mirror the messages from Slack, Gitter, IRC, Twitter, Telegram, SMS and more
 - Native mobile clients for Android and iOS, and [desktop too](https://github.com/mujx/nheko)
-- Also huge range of clients that support the Matrix standard, Riot is just one of them
 - Mobile clients are superior to Rocket.Chat's, work well
 
 ### Cons
