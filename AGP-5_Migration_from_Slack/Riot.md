@@ -4,6 +4,7 @@
 
 - [Parity](https://parity.io)
 - [Polkadot](https://polkadot.network)
+- [Raiden Network]>(https://raiden.network/)
 
 ### Pros
 - Federated architecture: Any user in any community could talk to another one in another different community, seamlessly
