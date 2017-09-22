@@ -24,12 +24,13 @@
 - Bridges: Allows you to mirror the messages from Slack, Gitter, IRC, Twitter, Telegram, SMS and more
 - Native mobile clients for Android and iOS, and [desktop too](https://github.com/mujx/nheko)
 - Mobile clients are superior to Rocket.Chat's, work well
+- Has arbitrarily finely grained ACLs (based on a 'power level' system where users get a numeric power level from 0 to 100)
 
 ### Cons
 
 - UX is bad, specially for newcomers
 - Encryption / key exchange is buggy and keeps causing issues in encrypted channels, unfortunately
 - Lack of message pinning, editing and reactions, but as seen above, they're coming by the end of 2017
-- They are having [funding](https://github.com/vector-im/riot-web/issues/2977) [issues](https://matrix.org/blog/2017/07/07/a-call-to-arms-supporting-matrix/) and require a very significant amount of capital to continue with the project for the next 18 months, at least
+- They are having [funding](https://github.com/vector-im/riot-web/issues/2977) [issues](https://matrix.org/blog/2017/07/07/a-call-to-arms-supporting-matrix/) and require a very significant amount of capital to continue with the project for the next 18 months, at least. *This might be a lesser issue, but not confirmed*
 - No customization options in the client for Projects
 - Self-deployed instances aren't necessary, but would incur monthly costs if used

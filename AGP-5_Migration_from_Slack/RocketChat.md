@@ -14,12 +14,15 @@
 - [Search history](https://rocket.chat/docs/user-guides/searching-messages): Not limited to just last 10,000 messages in the platform
 - [Notifications](https://rocket.chat/docs/user-guides/notifications): Seperate settings for Audio, Desktop, Mobile, Email & Unread alert
 - [Roles](https://rocket.chat/docs/administrator-guides/permissions): Roles Available - Admin, Moderator, Owner, User, Bot. Multiple permission available that can be set
+- [Permissions](https://rocket.chat/docs/) Granular permissions for different uses classes
 - [UI and Theming](https://rocket.chat/docs/developer-guides/ui-and-theming): Projects can have customized, personalized themes set for themselves
 - [Slack Bridge](https://rocket.chat/docs/administrator-guides/import/slack/slackbridge): Allows you to mirror the messages received in a Slack channel or private group into Rocket.Chat in real-time
 - Messages can be [pinned](https://rocket.chat/docs/user-guides/pinning-messages) and [starred](https://rocket.chat/docs/user-guides/starring-messages)
 - [Reactions](https://rocket.chat/docs/user-guides/reactions): Quickly respond to any message with an emoji reaction
 - [Server Deployment required](https://rocket.chat/docs/installation/minimum-requirements): Be in control of your own data
 - [Supports integrations via WebHooks](https://rocket.chat/docs/administrator-guides/integrations)
+- [End-to-End Encryption](https://github.com/RocketChat/Rocket.Chat/pull/7181) has a Pull Request at Github
+- Will likely integrate the same Matrix network that Riot uses into their backend at some point
 
 ### Cons
 - [Slack Import](https://rocket.chat/docs/administrator-guides/import/slack): Can't import DM's and private channels
