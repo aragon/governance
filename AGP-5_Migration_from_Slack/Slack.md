@@ -19,7 +19,8 @@
 - Easy to create official sounding usernames (@MyEtherWalletBot)
 - Proprietary software, no way to extend or maintain it ourselves
 - Limited to one channel that can be Read Only so that only Admins can post
-- Only two/three types of Roles: Admins and Users (Guests are available but rarely used)
+- Only three types of Roles: Owners, Admins and Users (Guests are available but rarely used)
 - Centralized platform, single-point of failure, if Slack has issues with servers or connectivity, everything goes offline
 - No possible way to create a wider umbrella community, ie. Ethereum Community under which Projects can live
 - Horrible Admin tools that require usage of web version
+- [Usernames are now deprecated](https://api.slack.com/changelog/2017-09-the-one-about-usernames) and not seen in the client - only Display Names or Full Names, neither of which are required to be unique (allowing for very easy impersonation of team members or other users)
