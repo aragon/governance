@@ -36,9 +36,9 @@ Initially we would like to hear from other projects in the space to see how much
 ### Documents for comparison
 Two documents were created so projects can evaluate the features and possibilities provided by the two open source projects, [Rocket Chat](https://github.com/rocketchat) and [Riot](https://github.com/vector-im).
 
-Read about [RocketChat](../archive/documentation/agp5/RocketChat.md).
+Read about [RocketChat](https://github.com/aragon/governance/blob/master/AGP-5_Migration_from_Slack/RocketChat.md).
 
-Read about [Riot](../archive/documentation/agp5/Riot.md).
+Read about [Riot](https://github.com/aragon/governance/blob/master/AGP-5_Migration_from_Slack/Riot.md).
 
 ## Uncertainties
 
