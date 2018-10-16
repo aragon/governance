@@ -36,17 +36,21 @@ As part of the migration, a new root ENS registry, as well as Aragon Package Man
 
 ### Roadmap
 
-**Oct. 16:**
+**Oct. 16, 2018:**
 
 - Deploy contracts based on `aragonOS@4` to Rinkeby, with new ENS and Aragon Package Manager instances
 - Provide a git tag, release, and branch for the deprecated version
 - Add [deprecation warning to the current Aragon Core 0.5 frontend](https://github.com/aragon/aragon/issues/364) and additional information in the new Aragon Core if a [DAO could not be found](https://github.com/aragon/aragon/issues/271)
 - Blog post, social media posts, outreach, etc.
 
-**Oct. 29:**
+**Oct. 29, 2018:**
 
 - Upgrade Aragon Core, and move Aragon Core v0.5 to a new URL (e.g. old-app.aragonpm.eth)
 - Disable onboarding for the deprecated Aragon Core v0.5
+
+**Mar. 29, 2019:**
+
+- Stop hosting Aragon Core v0.5
 
 ## Uncertainties
 
