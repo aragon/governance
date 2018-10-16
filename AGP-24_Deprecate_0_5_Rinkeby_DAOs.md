@@ -45,7 +45,7 @@ As part of the migration, a new root ENS registry, as well as Aragon Package Man
 
 **Oct. 29, 2018:**
 
-- Upgrade Aragon Core, and move Aragon Core v0.5 to a new URL (e.g. old-app.aragonpm.eth)
+- Upgrade Aragon Core, and move Aragon Core v0.5 to a new URL (e.g. app-v05.aragonpm.eth)
 - Disable onboarding for the deprecated Aragon Core v0.5
 
 **Mar. 29, 2019:**
